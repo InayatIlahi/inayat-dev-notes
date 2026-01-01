@@ -1,0 +1,17 @@
+### Elaboration for learning.
+
+Suppose I'm reading a peice 100 charecter text, whenver after reading it I feel "I get it" and it nothing unique, it maybe indication I didn't understood it with enough dept.
+For example when I was reading and used the inbuild feature of firefox DE to explain me what I thought I understood I already, after the explanation that same thing felt more unique to me.
+
+So through this I conclude, whenever a concept in a text is read for the first time for the purpose of learning, and it find to be nothing interesting or new it is a probable indication it is understood with enough dept.
+
+### Boilerplates
+
+I thought Boilerplates are same pre-build templates, but they ain't.
+I consider myself a hater (not voilent) of prebuild tempalates, cause I feel the urge to be unique not following what other created for me (though I think it is narcissism), and before coming a hater of boilerplates, I understood they're different.
+
+However how are they different actually? (I assume they're inaccurate formal distinctions) Boilerplates are hard to vary templates you build other things upon, like langauge and note talking app, a prebuild template is a you being given structure to speak through and write note through.
+
+what is hard to vary? works till an very large extent without need to change, they are so large that creating your own is inefficient, though not necessarily useless.
+
+Note from Code-Review by Inayat
