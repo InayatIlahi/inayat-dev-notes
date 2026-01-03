@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta lang="en">
+        <title>Odin link and Images</title>
+    </head>
+
+    <body>
+        <h1>Homepage</h1>
+
+        <!-- the attribute "href" is similar to  acronym for hypertext-reference, after equal sign I write the path in quotation marks -->
+        <!-- target="_blank" is when want the file to open in a new tab instead of same tab, like in google all images and files open on same tab, while binge doesn't -->
+        <!-- rel="noopener noreferer" is for security, for example jumping to a new page through a link is like a opening a new door and when there is no "noopener noreferer" people can see what is behind my door (refer) and even access it (open)-->
+        <a href="https://www.theodinproject.com/about" target="_blank" rel="noopener noreferer">About the Odin Project</a>
+        <br><br>
+
+        <a href="../about.html">About</a>
+    <!-- 
+        Notes for linking documents:
+            - Internal paths (inside layers): If the document is within the same project layers, write the path from your current file. For example, if your file is in project/ and the image is in project/images/image2.png, reference it as images/image2.png.
+            - External paths (outside layers): Use "../" to go up one layer, then specify the folder path from there (similar to the first note). For example, ../parent-folder/images/image2.png.
+        -->
+        <br>
+        <br>
+
+        <img src="./images/dog.jpg" alt="The Dogs image" height="500" width="400">
+    </body>
+</html>
